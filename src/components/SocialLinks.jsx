@@ -20,7 +20,7 @@ const SocialLinks = () => {
             <a href="mailto:foo@gmail.com" target='_blank' rel="noreferrer" className='flex justify-between items-center w-full'>Mail <HiOutlineMail size={25}/></a>
           </li>
           <li className='flex justify-between items-center w-40 h-14 px-4 ml-[-100px] hover:ml-[-10px] rounded-br-md duration-300 bg-white'>
-            <a href="/resume.pdf" download={true} target='_blank' rel="noreferrer" className='flex justify-between items-center w-full'>Resume <GrNotes size={25}/></a>
+            <a href="/resumeUP.pdf" download={true} target='_blank' rel="noreferrer" className='flex justify-between items-center w-full'>Resume <GrNotes size={25}/></a>
           </li>
         </ul>
     </div>
