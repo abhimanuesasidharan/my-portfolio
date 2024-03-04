@@ -9,7 +9,9 @@ const Home = () => {
       <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
         <div className=' flex flex-col justify-center h-full'>
           <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a Full Stack Developer</h2>
-          <p className='text-gray-500 py-4 max-w-md'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur repellat ipsa omnis esse voluptates commodi nesciunt molestias beatae accusamus cum! Deleniti molestias eos sed impedit repudiandae saepe harum cupiditate at?</p>
+          <p className='text-gray-500 py-4 max-w-md'>Hey there,
+I'm Abhimanue Sasidharan,
+I'm a dedicated professional with a Bachelor's degree in Computer Applications (BCA) and a certified Full Stack Developer, specializing in web development and search engine optimization (SEO)</p>
           <div>
             <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 via-blue to-blue-500 cursor-pointer'>
               Portfolio
