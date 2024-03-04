@@ -35,7 +35,7 @@ const Portfolio = () => {
         {
             id: 5,
             src: coke,
-            demoLink: 'https://example.com/demo4',
+            demoLink: 'https://abhimanuesasidharan.github.io/sample/',
             codeLink: 'https://github.com/abhimanuesasidharan/netflix-clone'
         },
         {
